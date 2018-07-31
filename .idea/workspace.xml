@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d316be-7722-43db-b71d-807a5d79d00b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/accounts/templates/accounts/home.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/db.sqlite3" afterPath="$PROJECT_DIR$/blog/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/accounts/admin.py" afterPath="$PROJECT_DIR$/blog/accounts/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/accounts/models.py" afterPath="$PROJECT_DIR$/blog/accounts/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/accounts/templates/accounts/login.html" afterPath="$PROJECT_DIR$/blog/accounts/templates/accounts/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/accounts/templates/base.html" afterPath="$PROJECT_DIR$/blog/accounts/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/accounts/urls.py" afterPath="$PROJECT_DIR$/blog/accounts/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/accounts/views.py" afterPath="$PROJECT_DIR$/blog/accounts/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/blog/settings.py" afterPath="$PROJECT_DIR$/blog/blog/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/blog/urls.py" afterPath="$PROJECT_DIR$/blog/blog/urls.py" />
-    </list>
+    <list default="true" id="66d316be-7722-43db-b71d-807a5d79d00b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
